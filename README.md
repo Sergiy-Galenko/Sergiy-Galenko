@@ -5,7 +5,7 @@ I am **Sergiy Halenko** working as **Content Creator on YouTube**. I am an Exper
 
 <br />
 
-<a href="https://www.youtube.com/channel/UC7z8S6LADRsWzvnCQSuiHfg"><img alt="Youtube" style="height: 21px" title="Youtube"  src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://www.youtube.com/@programmers_rest"><img alt="Youtube" style="height: 21px" title="Youtube"  src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 
 ## 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
 
