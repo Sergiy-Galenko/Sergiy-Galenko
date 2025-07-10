@@ -1,41 +1,50 @@
-### Hi there 👋
+<div align="center">
+  <h1>👋 Hey there, I’m Sergiy Halenko</h1>
+  <p>🔭 Content Creator on YouTube | 💻 Fullstack Developer</p>
+  <p>
+    <a href="https://www.youtube.com/@programmers_rest">
+      <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Subscribe"/>
+    </a>
+  </p>
+</div>
 
-I am **Sergiy Halenko** working as **Content Creator on YouTube**. I am an Experienced **Fullstack Developer**. **Skilled in React JS, React Native, NodeJS, MongoDB, Mern Stack, RESTfull API’s, User Experience, and Design.**
+---
 
+## 🚀 About Me
+- 🎙️ I create tutorials & deep dives on **Web & Mobile Development**  
+- 🔧 Pro at **React.js, React Native, Node.js & MERN Stack**  
+- 🛠️ Passionate about **RESTful APIs**, **UI/UX** & **Design**  
+- 🌐 Sharing code, tips & tricks to help you level up!
 
-<br />
+---
 
-<a href="https://www.youtube.com/@programmers_rest"><img alt="Youtube" style="height: 21px" title="Youtube"  src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+## 🛠️ Tech Stack
 
-## 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
+| Frontend                        | Backend                 | Dev & Design        |
+| ------------------------------- | ----------------------- | ------------------- |
+| ![React](https://img.shields.io/badge/React-282C34?style=flat-square&logo=react) <br> ![Tailwind](https://img.shields.io/badge/TailwindCss-1a202c?style=flat-square&logo=tailwind-css) | ![Node.js](https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=node.js&logoColor=white) <br> ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code) <br> ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![React](https://img.shields.io/badge/-ReactNative-%23282C34?style=flat-square&logo=react)
-![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
-![TailwindCss](https://img.shields.io/badge/-NativeWind-%231a202c?style=flat-square&logo=tailwind-css)
+| Bundlers & Linters                           |
+| --------------------------------------------- |
+| ![Webpack](https://img.shields.io/badge/Webpack-2C3A42?style=flat-square&logo=webpack) &nbsp; ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) &nbsp; ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint) |
 
-![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
-![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff)
-![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+---
 
+## 🌐 Connect with Me
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@programmers_rest)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sergiy-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
+[![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 
+---
 
-<!--
-**syednomishah/syednomishah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ✨ Highlights
+- 🔥 Released **10+** in-depth tutorials covering MERN, React Native, Docker & more  
+- 📈 Grew channel to **5K+ subscribers** by sharing practical coding guides  
+- 🧠 Continuously learning and experimenting with cutting-edge web tech  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <em>“Code is like humor. When you have to explain it, it’s bad.”</em><br>
+  ― Cory House
+</p>
