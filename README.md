@@ -48,7 +48,7 @@
 
 | Metric             | Value |
 | ------------------ | -----:|
-| Subscribers        |  5,000 |
+| Subscribers        |     12 |
 | Videos             |    120 |
 | Repositories       |      8 |
 | Monthly Uploads    |      7 |
