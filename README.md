@@ -49,10 +49,9 @@
 | Metric             | Value |
 | ------------------ | -----:|
 | Subscribers        |     12 |
-| Videos             |    120 |
-| Repositories       |      8 |
-| Monthly Uploads    |      7 |
-| GitHub Stars       |    350 |
+| Videos             |      0 |
+| Repositories       |     65 |
+| GitHub Stars       |      3 |
 
 <p align="center">
   <img src="./assets/monthly-uploads.png" alt="Monthly Tutorial Uploads" width="70%"/>
