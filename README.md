@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hey there, I’m Sergiy Halenko</h1>
+  <h1>👋 Hey there, I’m Sergii Halenko</h1>
   <p>🔭 Content Creator on YouTube | 💻 Fullstack Developer</p>
   <p>
     <a href="https://www.youtube.com/@programmers_rest">
