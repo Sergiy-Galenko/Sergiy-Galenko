@@ -50,7 +50,7 @@
 | ------------------ | -----:|
 | Subscribers        |     12 |
 | Videos             |      0 |
-| Repositories       |     65 |
+| Repositories       |     72 |
 | GitHub Stars       |      3 |
 
 <p align="center">
