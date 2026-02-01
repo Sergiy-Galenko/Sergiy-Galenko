@@ -2,7 +2,7 @@
   <h1>👋 Hey there, I’m Sergii Halenko</h1>
   <p>🔭 Content Creator on YouTube | 💻 Fullstack Developer</p>
   <p>
-    <a href="https://www.youtube.com/@halenko-q5t">
+    <a href="https://www.youtube.com/@SerhiiHalenko/videos">
       <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Subscribe"/>
     </a>
   </p>
