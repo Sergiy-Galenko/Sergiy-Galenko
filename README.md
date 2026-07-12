@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050816,50:111827,100:2563EB&text=Sergii%20Halenko&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Fullstack%20Developer%20%E2%80%A2%20Mobile%20Engineer%20%E2%80%A2%20Content%20Creator&descAlignY=60&animation=fadeIn" width="100%" alt="Serhii Halenko header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050816,50:111827,100:2563EB&text=Serhii%20Halenko&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Fullstack%20Developer%20%E2%80%A2%20Mobile%20Engineer%20%E2%80%A2%20Content%20Creator&descAlignY=60&animation=fadeIn" width="100%" alt="Serhii Halenko header"/>
 
 <a href="https://git.io/typing-svg">
   <img
